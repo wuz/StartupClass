@@ -35,7 +35,6 @@ Startup Class Links
 - [Front End Dev Bookmarks](https://github.com/akikoo/frontend-dev-bookmarks)
 - [Startups, This is Design](http://startupsthisishowdesignworks.com/)
 - [Design + Startup](https://medium.com/design-startups)
-- 
 
 ##Misc
 - [Button to Nowhere](https://medium.com/design-ux/77d911517318) - Article about Oren's "Facebook connect" button
